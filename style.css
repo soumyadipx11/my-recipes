@@ -1,0 +1,26 @@
+* {
+    background-color: rgb(25, 25, 25);
+}
+
+.title {
+    background-color: rgb(255, 217, 0);
+    font-size: 50px;
+    text-align: center;
+    margin: auto;
+    padding: 10PX;
+}
+
+a:link, .list {
+    color: rgb(255, 217, 0);
+}
+
+.list {
+    font-size: 20px;
+    margin: 20px auto;
+}
+
+.note {
+    color: dimgray;
+    margin: 20px auto;
+    padding: 10px;
+}
