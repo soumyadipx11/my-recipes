@@ -10,7 +10,7 @@
     padding: 10PX;
 }
 
-a:link, .list {
+a:link, a:visited, .list {
     color: rgb(255, 217, 0);
 }
 
